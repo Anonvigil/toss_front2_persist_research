@@ -1,0 +1,16 @@
+removed_path_pattern,area,file_offset_hex,original_ext4_offset_hex,length_bytes
+/data/<encoded-sfs-dir-44>,directory entry name,,0x51802C,44
+/data/<encoded-sfs-dir-44>/<encoded-file-20>,directory entry name,,0x601030,20
+/data/<encoded-sfs-dir-44>/<encoded-file-20>,file content,0x0,0xA01000,4096
+/data/<encoded-sfs-dir-44>/<encoded-file-20>,file content,0x1000,0xA03000,12288
+/data/<encoded-sfs-dir-44>/<encoded-file-20>.bak,directory entry name,,0x601094,20
+/data/<encoded-sfs-dir-44>/<encoded-file-20>.bak,file content,0x0,0x1000000,16384
+/data/<encoded-sfs-dir-44>/<encoded-file-44>,directory entry name,,0x60104C,44
+/data/<encoded-sfs-dir-44>/<encoded-file-44>,file content,0x0,0xE00000,1588
+/data/<encoded-sfs-dir-44>/<encoded-file-44>.bak,directory entry name,,0x6010B4,44
+/data/<encoded-sfs-dir-44>/<encoded-file-44>.bak,file content,0x0,0x1004000,1588
+/data/<encoded-sfs-dir-44>/vTable,directory entry name,,0x601020,6
+/data/<encoded-sfs-dir-44>/vTable,file content,0x0,0xC00000,593
+/data/<encoded-sfs-dir-44>/vTable.bak,directory entry name,,0x601080,6
+/data/<encoded-sfs-dir-44>/vTable.bak,file content,0x0,0x1401000,593
+
