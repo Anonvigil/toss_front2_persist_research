@@ -1,0 +1,13 @@
+sanitized_path,file_offset_hex,original_ext4_offset_hex,length_bytes,role
+/Prev_SinglePreview_Cam0_Frame40.yuv,0x0,0x1A00000,1843200,device capture YUV frame
+/quec_bt_mac,0x0,0xE03000,2,Bluetooth MAC octet
+/quec_bt_mac,0x3,0xE03003,2,Bluetooth MAC octet
+/quec_bt_mac,0x6,0xE03006,2,Bluetooth MAC octet
+/quec_bt_mac,0x9,0xE03009,2,Bluetooth MAC octet
+/quec_bt_mac,0xC,0xE0300C,2,Bluetooth MAC octet
+/quec_bt_mac,0xF,0xE0300F,2,Bluetooth MAC octet
+/time/ats_1,0x0,0x1206000,8,device time service state
+/time/ats_16,0x0,0xC04000,8,device time service state
+/time/ats_2,0x0,0xC03000,8,device time service state
+/wlan_mac.bin,0x10,0xE02010,12,Wi-Fi MAC 12 ASCII hex digits
+
